@@ -5,9 +5,9 @@
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-scripts": "5.0.1",  // Use a specific version like create-react-app does
-    "recharts": "^2.1.9",      // Make sure recharts is listed
-    "web-vitals": "^2.1.4"     // Often included by CRA
+    "react-scripts": "5.0.1",
+    "recharts": "^2.1.9",
+    "web-vitals": "^2.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
